@@ -16,33 +16,6 @@
     "short_description": "Curabitur tempor neque quis luctus consequat. Praesent a congue neque. Nulla tortor tortor, imperdiet ut mollis vitae, dignissim ac massa. Quisque feugiat est in lacus finibus, sed tempus nunc gravida. Fusce viverra mi aliquam, sagittis massa sit amet, mollis justo. Phasellus ut tempus ligula. Phasellus tristique sit amet purus at.",
     "description": "Ut et dolor leo. Mauris dignissim blandit tellus, sed gravida lorem lobortis maximus. In laoreet purus eget ornare consectetur. Vestibulum aliquam arcu nisl, ut blandit orci rhoncus at. Fusce leo enim, hendrerit ac tincidunt sit amet, malesuada ultrices sem. Nam et leo nulla. Curabitur id libero eu nunc accumsan ullamcorper.",
     "status": 1
-  },
-  {
-    "id": 3,
-    "pub_date": "1/3/2019",
-    "image": "",
-    "title": "Ut et dolor leo. Mauris dignissim blandit tellus, sed gravida lorem lobortis maximus. In laoreet purus eget ornare consectetur. Vestibulum aliquam arcu nisl, ut blandit orci rhoncus at. Fusce leo enim, hendrerit ac tincidunt sit amet, malesuada ultrices sem. Nam et leo nulla. Curabitur id libero eu nunc accumsan ullamcorper.",
-    "short_description": "Curabitur tempor neque quis luctus consequat. Praesent a congue neque. Nulla tortor tortor, imperdiet ut mollis vitae, dignissim ac massa. Quisque feugiat est in lacus finibus, sed tempus nunc gravida. Fusce viverra mi aliquam, sagittis massa sit amet, mollis justo. Phasellus ut tempus ligula. Phasellus tristique sit amet purus at.",
-    "description": "Ut et dolor leo. Mauris dignissim blandit tellus, sed gravida lorem lobortis maximus. In laoreet purus eget ornare consectetur. Vestibulum aliquam arcu nisl, ut blandit orci rhoncus at. Fusce leo enim, hendrerit ac tincidunt sit amet, malesuada ultrices sem. Nam et leo nulla. Curabitur id libero eu nunc accumsan ullamcorper.",
-    "status": 1
-  },
-  {
-    "id": 4,
-    "pub_date": "1/4/2019",
-    "image": "",
-    "title": "Ut et dolor leo. Mauris dignissim blandit tellus, sed gravida lorem lobortis maximus. In laoreet purus eget ornare consectetur. Vestibulum aliquam arcu nisl, ut blandit orci rhoncus at. Fusce leo enim, hendrerit ac tincidunt sit amet, malesuada ultrices sem. Nam et leo nulla. Curabitur id libero eu nunc accumsan ullamcorper.",
-    "short_description": "Curabitur tempor neque quis luctus consequat. Praesent a congue neque. Nulla tortor tortor, imperdiet ut mollis vitae, dignissim ac massa. Quisque feugiat est in lacus finibus, sed tempus nunc gravida. Fusce viverra mi aliquam, sagittis massa sit amet, mollis justo. Phasellus ut tempus ligula. Phasellus tristique sit amet purus at.",
-    "description": "Ut et dolor leo. Mauris dignissim blandit tellus, sed gravida lorem lobortis maximus. In laoreet purus eget ornare consectetur. Vestibulum aliquam arcu nisl, ut blandit orci rhoncus at. Fusce leo enim, hendrerit ac tincidunt sit amet, malesuada ultrices sem. Nam et leo nulla. Curabitur id libero eu nunc accumsan ullamcorper.",
-    "status": 1
-  },
-  {
-    "id": 5,
-    "pub_date": "1/5/2019",
-    "image": "",
-    "title": "Ut et dolor leo. Mauris dignissim blandit tellus, sed gravida lorem lobortis maximus. In laoreet purus eget ornare consectetur. Vestibulum aliquam arcu nisl, ut blandit orci rhoncus at. Fusce leo enim, hendrerit ac tincidunt sit amet, malesuada ultrices sem. Nam et leo nulla. Curabitur id libero eu nunc accumsan ullamcorper.",
-    "short_description": "Curabitur tempor neque quis luctus consequat. Praesent a congue neque. Nulla tortor tortor, imperdiet ut mollis vitae, dignissim ac massa. Quisque feugiat est in lacus finibus, sed tempus nunc gravida. Fusce viverra mi aliquam, sagittis massa sit amet, mollis justo. Phasellus ut tempus ligula. Phasellus tristique sit amet purus at.",
-    "description": "Ut et dolor leo. Mauris dignissim blandit tellus, sed gravida lorem lobortis maximus. In laoreet purus eget ornare consectetur. Vestibulum aliquam arcu nisl, ut blandit orci rhoncus at. Fusce leo enim, hendrerit ac tincidunt sit amet, malesuada ultrices sem. Nam et leo nulla. Curabitur id libero eu nunc accumsan ullamcorper.",
-    "status": 1
   }],
     "profile": {
         "name": "admin"
